@@ -1,0 +1,10 @@
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\CommanAPI.dll.config
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\CommanAPI.dll
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\CommanAPI.pdb
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\EntityFramework.dll
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\EntityFramework.xml
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\obj\Debug\CommanAPI.csproj.CoreCompileInputs.cache
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\obj\Debug\CommanAPI.dll
+C:\Users\matrix\Desktop\ContactDetailsDemoApp\CommanAPI\CommanAPI\obj\Debug\CommanAPI.pdb
